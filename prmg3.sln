@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prmg3", "prmg3\prmg3.vcproj", "{877315A8-024D-4D70-8D26-647BC9F0F272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877315A8-024D-4D70-8D26-647BC9F0F272}.Debug|Win32.ActiveCfg = Debug|Win32
+		{877315A8-024D-4D70-8D26-647BC9F0F272}.Debug|Win32.Build.0 = Debug|Win32
+		{877315A8-024D-4D70-8D26-647BC9F0F272}.Release|Win32.ActiveCfg = Release|Win32
+		{877315A8-024D-4D70-8D26-647BC9F0F272}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
